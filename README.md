@@ -22,7 +22,7 @@ Online marketplace where users can buy and sell items. (React & JSONServer)
 
 **📺 TVInfo** [Repo](https://github.com/clogan1/TVInfo)
 
-TVInfo is a single-page application that allows a user to search and see information about TV shows and actors, and provide comments and ratings. (Vanilla Javascript & JSONServer)
+Single-page application that allows a user to search and see information about TV shows and actors, and provide comments and ratings. (Vanilla Javascript & JSONServer)
   
 ## Contact Me :mailbox:
 
