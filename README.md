@@ -4,7 +4,7 @@ Full-Stack Software Engineer primarily using React/Redux and Ruby on Rails
   
 ## Projects 
 
-**💌 Send-It ** [Repo](https://github.com/clogan1/send-it) | [Live Site](https://send-it-cards.herokuapp.com/)
+**💌 Send-It** [Repo](https://github.com/clogan1/send-it) | [Live Site](https://send-it-cards.herokuapp.com/)
 
 Virtual card app that allows multiple users to send a greeting card with custom messages via email. (React/Redux & Rails)
 
